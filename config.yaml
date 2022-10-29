@@ -87,7 +87,7 @@ params:
         url: blogs/aboutme
       - image: SXFK7121.jpg
         subtitle: Risk return of Dow Jones
-        title: US Stocks
+        title: DJIA Stocks
         url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
