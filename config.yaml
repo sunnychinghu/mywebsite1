@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://sunnychinghu.netlify.app/
 languageCode: en-us
-title: Forty
+title: Sunny Hu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,18 +10,18 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Sunny
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Berlin, 10178
+        country: Germany
+        street: Schloßpl. 1
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: svnnyh@gmail.com
         title: Email
     enable: yes
     phone:
@@ -35,28 +35,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Sunny Hu
     enable: yes
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+#    quicklinks:
+#      - alt: HTML5 UP
+#        text: 'Design: '
+#        url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+#      - icon: fa-twitter
+#        label: Twitter
+#        url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/svnnyhu
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/sunsaanova
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/sunnychinghu
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/sunnychinghu
   image: ''
   name: Your name
   navigation:
