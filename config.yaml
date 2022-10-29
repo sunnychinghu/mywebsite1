@@ -85,10 +85,10 @@ params:
         subtitle: Sunny the short bio
         title: About Me
         url: blogs/aboutme
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: SXFK7121.jpg
+        subtitle: Risk return of Dow Jones
+        title: US Stocks
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
